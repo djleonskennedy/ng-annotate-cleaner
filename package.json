@@ -1,0 +1,27 @@
+{
+  "name": "ng-annotate-cleaner",
+  "version": "1.0.0",
+  "description": "webpack plugin for remove ng-annotated \"ngInject\" from build files",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djleonskennedy/ng-annotate-cleaner.git"
+  },
+  "keywords": [
+    "angular1.x",
+    "webpack",
+    "ng-annotate",
+    "clear",
+    "build",
+    "webpack-plugin"
+  ],
+  "author": "Yuriy Yakovenko <yuriy.yakovenko@live.com> (http://exbinet.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djleonskennedy/ng-annotate-cleaner/issues"
+  },
+  "homepage": "https://github.com/djleonskennedy/ng-annotate-cleaner#readme"
+}
